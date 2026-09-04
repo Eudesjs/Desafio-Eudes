@@ -44,3 +44,13 @@ for (let i = 0; i < listaHerois.length; i++) {
     // Exibição do resultado no console
     console.log(`O herói ${heroiAtual.nome} possui ${heroiAtual.xp} de XP e está no nível ${nivelHeroi}.`);
 }
+
+//**
+// Resumo do desafio 01 - Lógica de Programação
+// Resumo do desafio 01 - Lógica de Programação
+// apresentando a lista de heróis com seus respectivos níveis 
+// de experiência (XP) e classificações de nível. O código percorre a lista 
+// de heróis, avalia o XP de cada um e determina seu nível com base em faixas 
+// predefinidas. Em seguida, exibe uma mensagem no console informando o nome 
+// do herói, seu XP e seu nível correspondente. 
+ */
