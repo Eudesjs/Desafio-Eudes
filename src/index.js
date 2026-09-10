@@ -53,4 +53,3 @@ for (let i = 0; i < listaHerois.length; i++) {
 // de heróis, avalia o XP de cada um e determina seu nível com base em faixas 
 // predefinidas. Em seguida, exibe uma mensagem no console informando o nome 
 // do herói, seu XP e seu nível correspondente. 
- */
